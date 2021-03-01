@@ -1,6 +1,5 @@
 ## TDEP Coding Resources - Frequently Asked Questions 
 
-----------
 
 
 
