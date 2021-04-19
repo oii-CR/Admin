@@ -20,7 +20,7 @@ The procedure of sharing an assignment is currently as follows.
 
 ### FAQ and other materials
 
-You may find further information about this project here. For further information, please contact:
+You may find further information about this project here. For further information:
 
-
+Please contact Michael Collyer (michael.collyer@law.ox.ac.uk) and Linda Li (linda.li@oii.ox.ac.uk) who will be able to answer the majority of administrative questions. Should you have a more pressing questions or fail to receive a reply from Michael and Linda within 5 working days, please contact the TDEP Lead, Bernie Hogan (bernie.hogan@oii.ox.ac.uk).
 
