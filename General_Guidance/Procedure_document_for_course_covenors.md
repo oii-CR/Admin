@@ -15,7 +15,7 @@ As mentioned, the TDEP project takes the form of a private GitHub repo that was 
 ### Procedure of assignment sharing
 
 The procedure of sharing an assignment is currently as follows.
-![Flowchart of the procedure of assignment sharing](TDEP_flowchart.jpg)
+![Flowchart of the procedure of assignment sharing](TDEP_flowchart_1.jpg)
 
 
 ### FAQ and other materials
