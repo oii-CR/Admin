@@ -6,5 +6,14 @@ This is the admin repository for the TEDP coding resource project, and contains 
 - The Course repo maintainence folder, which includes template documents for setting up new project (or you may fork the template_repo) and maintanence guidance.
 - The GitHub usage folder which contains instructions for GitHub usage - you may refer to that when self-uploading projects and assignments.
 
-
+#### Courses and archive avaibility
+| Programme  | Course Name                                                          | Languages Used  | Participation status                                     |
+|------------|----------------------------------------------------------------------|-----------------|----------------------------------------------------------|
+| SDS        | Fundamentals of Social Data Science in Python                        | Python          | <span style="color:green">May upload directly</span> .   |
+| SDS        | Machine Learning                                                     | Python (?)      | <span style="color:green">May upload directly</span>     |
+| SDS        | Introduction to Natural Language Processing for the Social Sciences  | Python          | <span style="color:green">May upload directly</span>     |
+| SDS + SSI  | Online Social Networks                                               | Python          | <span style="color:green">May upload directly</span>.    |
+| SDS        | Statistical Lifetime Models                                          | R               | <span style="color:green">May upload directly</span>     |
+| SSI        | Wrangling Data                                                       | Python          | <span style="color:green">May upload directly</span>.    |
+| SDS + SSI    | MSc thesis                                                           | Multi           | <span style="color:yellow">Requires review</span>        |
 
