@@ -7,6 +7,12 @@ This is the admin repository for the TEDP coding resource project, and contains 
 - The Course repo maintainence folder, which includes template documents for setting up new project (or you may fork the template_repo) and maintanence guidance.
 - The GitHub usage folder which contains instructions for GitHub usage - you may refer to that when self-uploading projects and assignments.
 
+#### Very short guidance for project/assignment submission
+- Step 1: Visit https://forms.office.com/r/NUKBDkJ9pe and complete the survey.
+- Step 2: At the end of the survey you will be asked to upload your documents by visiting: https://files.oii.ox.ac.uk:8622/sharing/LVWMkNGqV 
+
+That's it!
+
 #### Courses and archive avaibility
 | Programme  | Course Name                                                          | Languages Used  | Participation status                                     |
 |------------|----------------------------------------------------------------------|-----------------|----------------------------------------------------------|
