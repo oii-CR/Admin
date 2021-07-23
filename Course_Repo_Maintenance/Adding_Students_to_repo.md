@@ -12,7 +12,7 @@ Please note that at the moment, all alumni could only be invited manually via th
 
 We suppose that for some pilot courses e.g. Fundamentals of Python for SDS, we use GitHub classroom for teaching & grading. Therefore, the process of adding students are as follows:
 
-- Create a new GitHub classroom linked to a GitHub organization.
+- Create a new GitHub classroom linked to a GitHub organization of course: please see the guidance [here](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms).
 
 - Create a new GitHub team for a GitHub classroom.
 
