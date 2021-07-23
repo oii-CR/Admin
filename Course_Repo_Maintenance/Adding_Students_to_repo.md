@@ -12,12 +12,16 @@ Please note that at the moment, all alumni could only be invited manually via th
 
 We suppose that for some pilot courses e.g. Fundamentals of Python for SDS, we use GitHub classroom for teaching & grading. Therefore, the process of adding students are as follows:
 
-- Create a new GitHub classroom linked to a GitHub organization of course: please see the guidance [here](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms).
+- In mid-September or early October, student names were added to Canvas.
 
-- Create a new GitHub team for a GitHub classroom.
+- Create a new GitHub classroom linked to a GitHub organization of a course: please see the guidance [here](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms).
 
-- Grant the team access to OII-CR (to be done with a script via the GitHub REST API)
+- Add students to the GitHub classroom -  we may automatically fill in student name from Canvas roster, and when students sign into GitHub classroom with their own GitHub account, their name will be automatically linked with their GitHub account. This automatically gives them access to OII-CR. For this part, please refer to [this guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/connect-a-learning-management-system-to-github-classroom) for more detailed guidance.
 
-- Add students to the GitHub classroom -  we suppose we may automatically fill in student name from Canvas roster, and when students sign into GitHub classroom with their own GitHub account, their name will be automatically linked with their GitHub account. This automatically gives them access to OII-CR. For this part, please refer to [this guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/connect-a-learning-management-system-to-github-classroom) for more detailed guidance.
- 
+- Create a new GitHub team for all members of the organization. 
+
+- Grant the team access to OII-CR (to be automated with a script via the GitHub REST API)
+
+
+
   
