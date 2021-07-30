@@ -6,9 +6,9 @@
 - Access the OII-CR organization. Go to ‘people’. Click ‘invite member’ and input username(e.g. lindali97). 
 - In the following options, select role as ‘member’ in ‘Role in Organization’ - or ‘owner’ if they are supposed to be part of the maintanence team. Select the team ‘oii-SDS’ in ‘Teams’.
 
-Please note that at the moment, all alumni could only be invited manually via the procedure. However, starting from MT 2021, we do hope to integrate Cavanas with GitHub classroom so that people can be invited automatically. 
+Please note that at the moment, all alumni could only be invited manually via the procedure. However, starting from MT 2021, we are investigating Cavanas integration with GitHub classroom so that people can be invited automatically. 
 
-#### Steps for current students (e.g. 2021-22 SDS cohort)
+#### Provisional steps for forthcoming students (e.g. 2021-22 SDS cohort)
 
 We suppose that for some pilot courses e.g. Fundamentals of Python for SDS, we use GitHub classroom for teaching & grading. Therefore, the process of adding students are as follows:
 
