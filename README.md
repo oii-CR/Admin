@@ -20,7 +20,7 @@ That's it!
 | SDS        | Machine Learning                                                     | Python (?)      | <span style="color:green">May upload directly</span>     |
 | SDS        | Introduction to Natural Language Processing for the Social Sciences  | Python          | <span style="color:green">May upload directly</span>     |
 | SDS + SSI  | Online Social Networks                                               | Python          | <span style="color:green">May upload directly</span>.    |
-| SDS        | Statistical Lifetime Models                                          | R               | <span style="color:green">May upload directly</span>     |
+| SDS        | Statistics for Social Data Science                                   | Python          | <span style="color:green">May upload directly</span>     |
 | SSI        | Wrangling Data                                                       | Python          | <span style="color:green">May upload directly</span>.    |
-| SDS + SSI    | MSc thesis                                                           | Multi           | <span style="color:yellow">Requires review</span>        |
+| SDS + SSI  | MSc thesis                                                           | Multi           | <span style="color:yellow">Requires review</span>        |
 
