@@ -9,7 +9,7 @@ This is the admin repository for the TEDP coding resource project, and contains 
 
 #### Very short guidance for project/assignment submission
 - Step 1: Visit https://forms.office.com/r/NUKBDkJ9pe and complete the survey.
-- Step 2: At the end of the survey you will be asked to upload your documents by visiting: https://files.oii.ox.ac.uk:8622/sharing/LVWMkNGqV 
+- Step 2: At the end of the survey you will be asked to upload your documents by visiting: https://files.oii.ox.ac.uk:8622/sharing/eaoXXi8gp 
 
 That's it!
 
